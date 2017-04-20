@@ -1,0 +1,1 @@
+static void *first_fit(size_t size);
